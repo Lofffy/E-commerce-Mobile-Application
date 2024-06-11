@@ -60,20 +60,20 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: '.',
-    appId: '1:593683635467:ios:994b2cee617d2b5f72560e',
-    messagingSenderId: '593683635467',
-    projectId: 'h4eelquiic',
-    storageBucket: 'h4eelquiic.appspot.com',
-    iosBundleId: 'com.example.ecommerceApp',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '..',
+    iosBundleId: '..',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBVMuERrueTSJP5W3qvVkQS4V7j2WUfpb8',
-    appId: '1:593683635467:ios:994b2cee617d2b5f72560e',
-    messagingSenderId: '593683635467',
-    projectId: 'h4eelquiic',
-    storageBucket: 'h4eelquiic.appspot.com',
-    iosBundleId: 'com.example.ecommerceApp',
+    apiKey: '',
+    appId: ':::',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '..',
+    iosBundleId: '..',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
